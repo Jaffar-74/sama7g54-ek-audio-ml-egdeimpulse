@@ -1,5 +1,5 @@
 ## 🛠️ Under Construction  
-# This Application content is currently being built or actively worked on
+## This Application content is currently being built or actively worked on
 
 
 # sama7g54-ek-audio-ml-egdeimpulse

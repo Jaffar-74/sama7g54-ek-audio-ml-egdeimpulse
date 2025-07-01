@@ -9,4 +9,4 @@ Audio-based machine learning applications have emerged as powerful tools across 
 
 This project demonstrates such an audio ML application in the context of machine health monitoring. Using Mel-filter bank Energy (MFE) features, it captures key frequency characteristics of machine audio data. A neural network then classifies the machine’s condition into categories such as "good," "broken fault," and "heavy load motor." The system’s capabilities are showcased through deployment on an embedded Linux device (SAMA7G54 Evaluation Kit), achieving robust and real-time classification with high accuracy.
 
-![Set-up](docs/pics/Hardware%20Setup%20SAMA7G54.png)
+![Set-up](Hardware%20Setup%20SAMA7G54.png)
